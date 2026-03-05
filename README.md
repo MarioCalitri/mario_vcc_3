@@ -1,22 +1,88 @@
-MIT License
+🔥 Feast Forge
+Feast Forge is an all‑in‑one cooking companion app designed to make cooking easier, faster, and more enjoyable. Save and organize your recipes, convert measurements, calculate cook times, set built‑in timers, and build shopping lists — all within a warm, rustic cooking‑themed interface.
 
-Copyright (c) 2026 MARIO
+🍽️ Features
+🧾 Recipe Storage
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Save unlimited recipes
+Add photos, ingredients, and instructions
+Organize by categories (Breakfast, Lunch, Dinner, Keto, BBQ, etc.)
+Quickly browse recipe cards from the home screen
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+⏱️ Cook Timer
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Built‑in cooking timer
+Supports multiple simultaneous timers
 
+🔁 Measurement Converter
+
+Convert cups ↔ grams ↔ ounces ↔ tablespoons
+Automatically scale recipes up or down
+
+⏳ Cook Time Calculator
+
+Estimate cooking time based on weight, method, or temperature
+
+🛒 Shopping List
+
+Add ingredients directly from recipes
+Check off items as you shop
+Lists persist between sessions
+
+🔎 Smart Search
+
+Search by keyword or category
+Filter by meal type or dietary category
+
+
+📸 App Preview
+(Add screenshots here later)
+You can add images like this:
+Markdown![Feast Forge Screenshot](assets/app-preview.png)Show more lines
+
+🧰 Installation (For Developers)
+Clone the repository:
+Shellgit clone https://github.com/<your-username>/<your-repo>.gitcd <your-repo>Show more lines
+Install dependencies (example for React Native — adjust to your tech stack):
+Shellnpm installShow more lines
+Run the app:
+Shellnpm startShow more lines
+
+🚀 Usage
+
+Browse recipes on the home screen
+Tap a category to view all recipes inside it
+Add new recipes through the bottom navigation
+Use tools like the converter, timer, and cook time calculator
+Add ingredients to your shopping list
+Save recipes for quick access anytime
+
+
+🗂️ Planned Features / Roadmap
+
+Meal planner calendar
+Nutrition calculator
+Guided step‑by‑step cooking mode
+Cloud sync across devices
+Share recipes with friends
+Dark mode
+Export/import recipe collections
+
+
+🤝 Contributing
+Contributions are always welcome!
+To contribute:
+Shellgit checkout -b feature/my-featureShow more lines
+After coding:
+Shellgit commit -m "Add new feature"git push origin feature/my-featureShow more lines
+Then open a pull request.
+
+🙌 Credits
+
+Created by: Mario Calitri
+Design Inspiration: rustic cooking environments, warm tones, handcrafted UI
+Development Tools: VS Code, GitHub, Node/React Native (or your chosen stack), Figma
+
+
+📝 License
+MIT License (or whichever you prefer).
