@@ -34,11 +34,8 @@ Lists persist between sessions
 Search by keyword or category
 Filter by meal type or dietary category
 
+<img width="599" height="604" alt="Screenshot 2026-03-05 at 1 47 26 PM" src="https://github.com/user-attachments/assets/4e8b50a8-e08c-4cbc-baae-d0e74f42e1f1" />
 
-📸 App Preview
-(Add screenshots here later)
-You can add images like this:
-Markdown![Feast Forge Screenshot](assets/app-preview.png)Show more lines
 
 🧰 Installation (For Developers)
 Clone the repository:
