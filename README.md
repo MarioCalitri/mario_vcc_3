@@ -7,7 +7,7 @@ Feast Forge is a clean, easy‑to‑use cooking companion app that helps you sav
 Recipe Storage – Save recipes with ingredients, steps, and photos
 Categories – Browse meals like Breakfast, Lunch, Dinner, Keto, BBQ, etc.
 Cook Timer – Built‑in timer for managing multiple cooking tasks
-Measurement Converter – Cups ↔ grams ↔ ounces ↔ tablespoons
+Measurement Converter – Cups ↔ grams ↔ ounces ↔ tablespoons - 
 Cook Time Calculator – Estimate cook time based on weight & method
 Shopping List – Add ingredients or create custom lists
 Search – Quickly find recipes or ingredients
@@ -19,10 +19,8 @@ Shellgit clone https://github.com/<your-username>/<your-repo>.gitcd <your-repo>n
 
 🚀 Usage
 
-Open the app
-Browse or search for recipes
-Add your own recipes with categories
-Use the timer, converter, and calculator tools
+Open the app - Browse or search for recipes - Add your own recipes with categories - Use the timer, converter, and calculator tools
+
 Build your shopping list as you cook
 
 
@@ -32,9 +30,11 @@ Shellgit checkout -b feature/my-featuregit commit -m "Add new feature"git push o
 Submit a pull request when ready.
 
 🙌 Credits
+
 Created by Mario Calitri
+
 Part of the Gungnir Forge project family
 
 📝 License
 This project is licensed under the MIT License.
-See the LICENSE file for details.
+See the LICENSE (Usage page) file for details.
