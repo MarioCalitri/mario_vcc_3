@@ -1,83 +1,40 @@
 🔥 Feast Forge
-Feast Forge is an all‑in‑one cooking companion app designed to make cooking easier, faster, and more enjoyable. Save and organize your recipes, convert measurements, calculate cook times, set built‑in timers, and build shopping lists — all within a warm, rustic cooking‑themed interface.
 
-🍽️ Features
-🧾 Recipe Storage
+Feast Forge is a clean, easy‑to‑use cooking companion app that helps you save recipes, track cook times, convert measurements, and build shopping lists — all inside a warm, rustic kitchen‑inspired interface.
 
-Save unlimited recipes
-Add photos, ingredients, and instructions
-Organize by categories (Breakfast, Lunch, Dinner, Keto, BBQ, etc.)
-Quickly browse recipe cards from the home screen
+✨ Features
 
-⏱️ Cook Timer
-
-Built‑in cooking timer
-Supports multiple simultaneous timers
-
-🔁 Measurement Converter
-
-Convert cups ↔ grams ↔ ounces ↔ tablespoons
-Automatically scale recipes up or down
-
-⏳ Cook Time Calculator
-
-Estimate cooking time based on weight, method, or temperature
-
-🛒 Shopping List
-
-Add ingredients directly from recipes
-Check off items as you shop
-Lists persist between sessions
-
-🔎 Smart Search
-
-Search by keyword or category
-Filter by meal type or dietary category
+Recipe Storage – Save recipes with ingredients, steps, and photos
+Categories – Browse meals like Breakfast, Lunch, Dinner, Keto, BBQ, etc.
+Cook Timer – Built‑in timer for managing multiple cooking tasks
+Measurement Converter – Cups ↔ grams ↔ ounces ↔ tablespoons
+Cook Time Calculator – Estimate cook time based on weight & method
+Shopping List – Add ingredients or create custom lists
+Search – Quickly find recipes or ingredients
 
 
-🧰 Installation (For Developers)
-Clone the repository:
-Shellgit clone https://github.com/<your-username>/<your-repo>.gitcd <your-repo>Show more lines
-Install dependencies (example for React Native — adjust to your tech stack):
-Shellnpm installShow more lines
-Run the app:
-Shellnpm startShow more lines
+🧰 Installation (Developers)
+Shellgit clone https://github.com/<your-username>/<your-repo>.gitcd <your-repo>npm installnpm startShow more lines
+(Adjust commands based on your tech stack.)
 
 🚀 Usage
 
-Browse recipes on the home screen
-Tap a category to view all recipes inside it
-Add new recipes through the bottom navigation
-Use tools like the converter, timer, and cook time calculator
-Add ingredients to your shopping list
-Save recipes for quick access anytime
-
-
-🗂️ Planned Features / Roadmap
-
-Meal planner calendar
-Nutrition calculator
-Guided step‑by‑step cooking mode
-Cloud sync across devices
-Share recipes with friends
-Dark mode
-Export/import recipe collections
+Open the app
+Browse or search for recipes
+Add your own recipes with categories
+Use the timer, converter, and calculator tools
+Build your shopping list as you cook
 
 
 🤝 Contributing
-Contributions are always welcome!
-To contribute:
-Shellgit checkout -b feature/my-featureShow more lines
-After coding:
-Shellgit commit -m "Add new feature"git push origin feature/my-featureShow more lines
-Then open a pull request.
+Contributions are welcome!
+Shellgit checkout -b feature/my-featuregit commit -m "Add new feature"git push origin feature/my-featureShow more lines
+Submit a pull request when ready.
 
 🙌 Credits
-
-Created by: Mario Calitri
-Design Inspiration: rustic cooking environments, warm tones, handcrafted UI
-Development Tools: VS Code, GitHub, Node/React Native (or your chosen stack), Figma
-
+Created by Mario Calitri
+Part of the Gungnir Forge project family
 
 📝 License
-MIT License (or whichever you prefer).
+This project is licensed under the MIT License.
+See the LICENSE file for details.
